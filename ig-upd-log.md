@@ -1,4 +1,11 @@
 # Changelog
+
+### Update 1.6.1 (Open Beta Release)
+Welcome to The Altar, a Create server for 1.20.1. If you're seeing this, you're playing the open beta release.
+
+Last release had an empty tag issue caused by a Farmer's Delight mod. This update fixes that.
+Check the Discord for the latest version.
+
 ### Update 1.6.0 (Open Beta Release)
 Welcome to The Altar, a Create server for 1.20.1. If you're seeing this, you're playing the open beta release.
 
